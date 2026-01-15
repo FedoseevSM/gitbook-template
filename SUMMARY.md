@@ -7,4 +7,5 @@
 * [Part II](chapter-2/README.md)
     * [We love feedback](chapter-2/feedback_please.md)
     * [Better tools for authors](chapter-2/better_tools.md)
-
+* [Part III](chapter-3/README.md)
+    * [Discount](chapter-3/discount.md)
