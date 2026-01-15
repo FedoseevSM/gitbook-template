@@ -1,5 +1,3 @@
-# Discount
-
 # 🎯 Discount Banner Widget
 
 ```
