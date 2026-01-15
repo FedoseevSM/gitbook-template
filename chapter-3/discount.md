@@ -65,7 +65,6 @@ target: string|Element // "#id" или DOM element
 📱 Responsive: CSS media queries 320-1920px
 🧹 Cleanup: clearInterval + removeEventListener
 
-
 🎨 CSS Vars (встроены)
 --fp-primary: #ff6b35;
 --fp-bg: #fef7f2;
