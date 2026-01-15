@@ -16,7 +16,7 @@ CDN пакет embed-виджетов для сайтов.
 
 📋 ОСНОВНОЙ ПРОМПТ Discount Banner Widget (Pure JS Module)
 
-Создай **самодостаточный UMD модуль** Discount Banner Widget v2.1.0 для Forkpack.ru CDN на **чистом JavaScript** (без React/Framer).
+Создай самодостаточный UMD модуль Discount Banner Widget v2.1.0 для Forkpack.ru CDN на чистом JavaScript (без React/Framer).
 
 🎯 Требования
 ✅ 10000 строк максимум (один файл fp-discount.umd.js)
